@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DmitryVasilkovW&show_icons=true&theme=dark&locale=en" alt="DmitryVasilkovW" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DmitryVasilkovW&theme=dark" alt="DmitryVasilkovW" /></p>
+<img align="right" alt="Dmitry" width="420" src="https://c.tenor.com/kdFF-wrdaFMAAAAC/no-sleep.gif">
