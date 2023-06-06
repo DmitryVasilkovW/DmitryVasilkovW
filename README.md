@@ -23,6 +23,7 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/gitkraken-%23121011.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
 
