@@ -46,7 +46,7 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 
 ## 📊 &nbsp;Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryVasilkovW&show_icons=true&theme=nord&&layout=donut&langs_count=700)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryVasilkovW&show_icons=true?&theme=nord&&layout=donut&langs_count=700&hide=jupyter%20notebook&)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DmitryVasilkovW&show_icons=true&theme=nord&locale=en" alt="DmitryVasilkovW" /></p>
