@@ -28,6 +28,15 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/gitkraken-%23121011.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
 
+### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 ### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -35,6 +44,7 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -45,6 +55,8 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 ![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=clion&logoColor=white&color=black)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&label)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white&color=black&label)
+![Goland](https://img.shields.io/badge/Goland-000000.svg?style=for-the-badge&logo=Goland&logoColor=white&color=black&label)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
