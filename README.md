@@ -62,7 +62,7 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 ![Android stodio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ## 📊 &nbsp;Stats
 
