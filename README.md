@@ -70,7 +70,7 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryVasilkovW&show_icons=true&theme=nord&layout=donut&langs_count=239&hide=jupyter%20notebook,TeX,HTML,CSS" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryVasilkovW&show_icons=true&theme=nord&layout=donut&langs_count=239&hide=jupyter%20notebook,TeX" alt="Top Langs" />
       </a>
     </td>
     <td>
