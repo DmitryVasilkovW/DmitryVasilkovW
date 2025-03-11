@@ -85,7 +85,5 @@ I'm **Dmitry Vasilkov**, a student of the [Information Technologies and Programm
 ## 🔗 &nbsp;Links
 
 [<img align="left" alt="Dmitryvasilkovw | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="vasilkov7973| Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-[telegram]: https://t.me/Dmitryvasilkovw 
-[instagram]: https://www.instagram.com/vasilkov7973
+[telegram]: https://t.me/Dmitryvasilkovw
